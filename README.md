@@ -16,6 +16,8 @@ I am an MSc. AI & Robotics student at the University of Technology Nuremberg, in
 
 About me:
 
+- I am currently working at Audi AG Ingolstadt, Charging Hubs, as a Data Analytics and Frontend intern
+
 - I am learning AI and Robotics, focusing on math-heavy concepts
 
 - I have experience with Full-stack web dev, back-end dev and UI/UX design
