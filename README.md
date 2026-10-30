@@ -12,17 +12,9 @@
 <!--<h3 align="left">I am an upcoming MSc. AI & Robotics candidate at UT-Nurnberg, Germany</h3>-->
 
 <p>
-I am an MSc. AI & Robotics student at the University of Technology Nuremberg, interested in robotics research and looking for a challenging position that will effectively build my experience and domain knowledge for real-world implementations of robotics and AI.
+I am an MSc. AI & Robotics student at the University of Technology Nuremberg.
 
-About me:
-
-- I am currently working at Audi AG Ingolstadt, Charging Hubs, as a Data Analytics and Frontend intern
-
-- I am learning AI and Robotics, focusing on math-heavy concepts
-
-- I have experience with Full-stack web dev, back-end dev and UI/UX design
-
-- I can solve a rubik's cube in 30 seconds
+I have experience with Full-stack web dev, back-end dev and UI/UX design
 
  </p>
 
